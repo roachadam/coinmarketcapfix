@@ -2,12 +2,12 @@
 // @name         CoinMarketCapFix
 // @description  Userscript to fix the annoying whitespace to the right of the crypto data graph on CoinMarketCap.com
 // @author       Adam Roach - github.com/roachadam
-// @version      1.0
+// @version      1.1
 // @grant        none
 // @match        https://coinmarketcap.com/*
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
-// @downloadURL  https://raw.githubusercontent.com/roachadam/coinmarketcapfix/master/coinmarketcapfix.js
-// @updateURL    https://raw.githubusercontent.com/roachadam/coinmarketcapfix/master/coinmarketcapfix.js
+// @downloadURL  https://raw.githubusercontent.com/roachadam/coinmarketcapfix/master/coinmarketcapfix.user.js
+// @updateURL    https://raw.githubusercontent.com/roachadam/coinmarketcapfix/master/coinmarketcapfix.user.js
 // ==/UserScript==
 
 (function() {
