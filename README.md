@@ -1,5 +1,5 @@
 # coinmarketcapfix
-Script for TamperMonkey or GreaseMonkey to extend CryptoCurrency table on coinmarketcap.com
+Userscript to fix the annoying whitespace to the right of the crypto data graph on CoinMarketCap.com
 
 
 # Before/After
