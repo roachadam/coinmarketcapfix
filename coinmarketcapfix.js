@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         CoinMarketCapFix
-// @description  Extends the coin graph to to a larger size.
+// @description  Userscript to fix the annoying whitespace to the right of the crypto data graph on CoinMarketCap.com
 // @author       Adam Roach - github.com/roachadam
 // @version      1.0
 // @grant        none
