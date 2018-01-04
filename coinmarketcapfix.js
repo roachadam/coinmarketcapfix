@@ -4,7 +4,7 @@
 // @author       Adam Roach - github.com/roachadam
 // @version      1.0
 // @grant        none
-// @match 		 https://coinmarketcap.com/*
+// @match        https://coinmarketcap.com/*
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
 // ==/UserScript==
 
