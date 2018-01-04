@@ -4,8 +4,10 @@
 // @author       Adam Roach - github.com/roachadam
 // @version      1.0
 // @grant        none
-// @match        https://coinmarketcap.com/*
+// @match 		 https://coinmarketcap.com/*
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
+// @downloadURL  https://raw.githubusercontent.com/roachadam/coinmarketcapfix/master/coinmarketcapfix.js
+// @updateURL    https://raw.githubusercontent.com/roachadam/coinmarketcapfix/master/coinmarketcapfix.js
 // ==/UserScript==
 
 (function() {
