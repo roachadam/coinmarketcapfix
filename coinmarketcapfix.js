@@ -14,7 +14,3 @@
     // Grabs the table using jQuery and sets the table to the larger style class.
     $(".col-lg-10").removeClass("col-lg-10").addClass("col-lg-12");
 })();
-
-
-
-
